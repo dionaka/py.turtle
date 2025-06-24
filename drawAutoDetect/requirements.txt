@@ -1,0 +1,10 @@
+turtle
+opencv-python
+numpy
+Pillow
+rembg
+torch
+transformers
+scipy
+realesrgan
+basicsr 

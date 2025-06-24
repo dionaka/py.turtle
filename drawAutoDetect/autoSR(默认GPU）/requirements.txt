@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+pillow
+opencv-python
+scikit-learn
+# 下面根据实际模型实现补充
+gfpgan
+# waifu2x-ncnn-vulkan 需手动下载并放置于指定目录，无pip包 

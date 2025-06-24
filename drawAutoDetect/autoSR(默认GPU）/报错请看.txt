@@ -1,0 +1,6 @@
+啊啊啊可能是网络/防火墙/路径/权限/本地环境/库版本冲突/有些库我原先下载了没加到requirements.txt/我热修了python库忘记录了🤡
+啊啊啊啊期末周要复习其他的第二天就忘了自己写过什么了啊啊啊
+啊啊啊啊啊最讨厌报错了啊啊啊啊
+运行不了就运行不了吧，正常
+dncnn模型权重是自己训练的，网上没找到,训练集图片来源https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
+esrgan超分还会爆内存，之前在drawAutoDetect解决过这个问题(分块),我不实现了，原理差不多，那个使用的RealESRGAN_x4plus_anime_6B.pth，这里使用RRDB_ESRGAN_x4.pth
