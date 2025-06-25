@@ -1,0 +1,5 @@
+//--epochs 50训练轮数
+//--num_of_layers网络的总层数（卷积层+BN+ReLU等）
+//DnCNN 论文推荐去噪用 17 层（灰度/彩色都适用），超分用 20 层。
+python train3.py --data_path data3 --preprocess True --batchSize 128 --num_of_layers 17 --epochs 50 --outf logs/DnCNN-Color
+//我自己加了个--data_path
